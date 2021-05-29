@@ -28,7 +28,7 @@ void main(){
     
     // Dedras
     float a = 3;
-    float b = 2.7;
+    float b = 4;
     float c = 1.7;
     float d = 2;
     float e = 9;
